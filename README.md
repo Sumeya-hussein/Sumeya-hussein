@@ -1,7 +1,27 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sumaya Hussein ismail</h1>
 <h3 align="center">Full-Stack Human: Code & Coffee</h3>
-- 🌱 I’m currently learning **🎓 Courses Ethical Hacking with Kali Linux (offensive + defensive labs) Microsoft Project Management (organization, leadership, task structuring) IBM UX/UI Designer (Figma, user research, creative design systems) Foundations of Coding – Full-Stack (end-to-end coding fluency) Arabic Language Studies (personal + cultural growth 🌙) Coursera/Kiron Networking Track (subnetting, routing, security) ⚙️ Frameworks & Tools Next.js + React — frontend frameworks for sleek dashboards Spring Boot — backend APIs & microservices NestJS — structured Node.js backend Docker — containerization & deployments GraphQL — modern API design PostgreSQL — relational DBMS mastery MongoDB — NoSQL database for flexibility Figma — UX/UI design + prototyping Ansible / Netmiko — baby steps into network automation Wireshark — packet sniffing & network forensics**
+- 🌱 **I’m currently learning…**
+
+### 🎓 Courses  
+- Ethical Hacking with **Kali Linux** (offensive & defensive labs)  
+- **Microsoft Project Management** (organization, leadership, task structuring)  
+- **IBM UX/UI Designer** (Figma, user research, design systems)  
+- **Foundations of Coding – Full-Stack** (end-to-end coding fluency)  
+- **Arabic Language Studies** (personal + cultural growth 🌙)  
+- **Coursera / Kiron Networking Track** (subnetting, routing, security)  
+
+### ⚙️ Frameworks & Tools  
+- **Next.js + React** → sleek frontend dashboards  
+- **Spring Boot** → backend APIs & microservices  
+- **NestJS** → structured Node.js backend  
+- **Docker** → containerization & deployments  
+- **GraphQL** → modern API design  
+- **PostgreSQL** → relational DBMS mastery  
+- **MongoDB** → flexible NoSQL databases  
+- **Figma** → UX/UI design & prototyping  
+- **Ansible / Netmiko** → network automation experiments  
+- **Wireshark** → packet sniffing & network forensics  
 
 - 📫 How to reach me **sumeyah@innovatextech.com**
 - 👨‍💻 All of my projects are available at **innovatextech.com**
